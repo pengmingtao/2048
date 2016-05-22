@@ -23,9 +23,6 @@ var game={
 				}
 			}
 		}
-
-
-
 		return true;
 	},
 	randomNum:function(){
